@@ -25,9 +25,10 @@ html, body {
 	 z-index: 1000;
 }
 .triger{
-	align-items: center;
 	width:100px;
 	height: auto;
+	display: block;
+	margin: 0 auto;
 
 }
  .head > div {
