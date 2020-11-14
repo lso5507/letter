@@ -25,6 +25,9 @@ html, body {
 	 z-index: 1000;
 }
 .triger{
+	position: absolute;
+	top:0;
+	
 	width:100px;
 	height: auto;
 	display: block;
