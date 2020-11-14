@@ -24,6 +24,12 @@ html, body {
 	 pointer-events: none;
 	 z-index: 1000;
 }
+.triger{
+	align-items: center;
+	width:100px;
+	height: auto;
+
+}
  .head > div {
 	 display: flex;
 }
