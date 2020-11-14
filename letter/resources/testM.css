@@ -27,11 +27,12 @@ html, body {
 .triger{
 	position: absolute;
 	top:0;
-	
+
 	width:100px;
 	height: auto;
 	display: block;
 	margin: 0 auto;
+
 
 }
  .head > div {
