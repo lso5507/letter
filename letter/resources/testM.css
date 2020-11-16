@@ -102,6 +102,7 @@ html, body {
 	 position: relative;
 	 overflow: hidden;
 	 width: 55vw;
+	 height:auto;
 	 padding-top: 56.5%;
 }
  .slide img {
