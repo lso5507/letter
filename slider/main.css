@@ -1,4 +1,10 @@
-
+@import url(https://fonts.googleapis.com/css?family=Reenie+Beanie);
+@font-face {
+    font-family: 'ImcreSoojin';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.3/ImcreSoojin.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 @-webkit-keyframes animation{from{opacity:0; -webkit-transform:scale(1.2) rotateX(45deg);transform:scale(1.2) rotateX(45deg);} to{ }}
 
 @-webkit-keyframes animation2{from{opacity:0; -webkit-transform:scale(1.2) rotateX(45deg);transform:scale(1.2) rotateX(45deg);} to{ }}
@@ -6,6 +12,7 @@
 body *{ cursor: url(https://dl.dropboxusercontent.com/u/50037593/ElasticSlider/images/cur.png), auto;}
 
 body {
+    font-family: 'ImcreSoojin';
     background:#1c1c1c;
            /*-webkit-perspective:1000px;*/
            overflow:hidden;
